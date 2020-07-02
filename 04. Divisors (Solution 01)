@@ -6,7 +6,7 @@ int main()
 {
 	int i, j, t, num, div;
     cin >> t;
-	
+		
     for(i = 0; i<t; i++)
     {
     	cin >> num;
